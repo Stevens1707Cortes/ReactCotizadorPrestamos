@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCotizadorPrestamos/static/css/main.ba6d3b79.css",
+    "main.js": "/ReactCotizadorPrestamos/static/js/main.d423b66e.js",
+    "static/js/787.9d7bd397.chunk.js": "/ReactCotizadorPrestamos/static/js/787.9d7bd397.chunk.js",
+    "index.html": "/ReactCotizadorPrestamos/index.html",
+    "main.ba6d3b79.css.map": "/ReactCotizadorPrestamos/static/css/main.ba6d3b79.css.map",
+    "main.d423b66e.js.map": "/ReactCotizadorPrestamos/static/js/main.d423b66e.js.map",
+    "787.9d7bd397.chunk.js.map": "/ReactCotizadorPrestamos/static/js/787.9d7bd397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba6d3b79.css",
+    "static/js/main.d423b66e.js"
+  ]
+}
