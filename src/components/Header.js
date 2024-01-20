@@ -4,12 +4,9 @@ import React from 'react';
 function Header() {
     // Siempre debe retornar algo, este return es lo que se va a ver en pantalla
     return (
-        <div className="App">
-            <div id="header">
-                <h1>Cotizador de Prestamos</h1>
-            </div>
+        <div className="Header">
+            <h1>Cotizador de Prestamos</h1>
         </div>
-        
     )
 }
 

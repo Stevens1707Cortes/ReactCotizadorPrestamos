@@ -1,24 +1,19 @@
-.App {
-  text-align: center;
-  background-color: rgb(53, 79, 79);
-}
-
 html {
   background-color: rgb(27, 26, 26);
 }
 
-#header {
-  width: 80%;
-  background-color: rgb(36, 40, 78);
-  display: inline-block;
+.Header {
+  text-align: center;
+  background-color: rgb(112, 121, 187);
   border: 2px solid;
   border-radius: 1em;
   padding-top: 0.5em;
   margin: 3%;
   overflow:auto;
+  /* background-color: rgb(53, 79, 79); */
 }
 
-#header h1{
-  color: aliceblue;
+.Header h1{
+  color: rgb(233, 238, 242);
   font-size: 3em;
 }
