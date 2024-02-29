@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactCotizadorPrestamos/static/css/main.ba6d3b79.css",
-    "main.js": "/ReactCotizadorPrestamos/static/js/main.d423b66e.js",
+    "main.css": "/ReactCotizadorPrestamos/static/css/main.2d17bf85.css",
+    "main.js": "/ReactCotizadorPrestamos/static/js/main.6f1b2fb7.js",
     "static/js/787.9d7bd397.chunk.js": "/ReactCotizadorPrestamos/static/js/787.9d7bd397.chunk.js",
     "index.html": "/ReactCotizadorPrestamos/index.html",
-    "main.ba6d3b79.css.map": "/ReactCotizadorPrestamos/static/css/main.ba6d3b79.css.map",
-    "main.d423b66e.js.map": "/ReactCotizadorPrestamos/static/js/main.d423b66e.js.map",
+    "main.2d17bf85.css.map": "/ReactCotizadorPrestamos/static/css/main.2d17bf85.css.map",
+    "main.6f1b2fb7.js.map": "/ReactCotizadorPrestamos/static/js/main.6f1b2fb7.js.map",
     "787.9d7bd397.chunk.js.map": "/ReactCotizadorPrestamos/static/js/787.9d7bd397.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba6d3b79.css",
-    "static/js/main.d423b66e.js"
+    "static/css/main.2d17bf85.css",
+    "static/js/main.6f1b2fb7.js"
   ]
 }
